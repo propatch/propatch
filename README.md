@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @propatch
-- 👀 I’m interested in Kotlin, NodeJS
-- 🌱 I’m currently learning NodeJS
+- 👀 I’m interested in JAVA, JS
+- 🌱 I’m currently learning IT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me >>  INSTAGRAM: @propatch.it
 
