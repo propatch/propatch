@@ -1,7 +1,7 @@
 - Hi, I’m @propatch
 - 👀 I’m interested in JAVA, Python, database
 - I’m currently learning testing, bughunting and AI
-- I’m looking to collaborate on ...
+- Open to collab on beta-testing, open-source testing tools
 - 📫 How to reach me >>  INSTAGRAM: @propatch.it
 
 <!---
