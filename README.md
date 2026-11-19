@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @propatch
-- 👀 I’m interested in JAVA, JS
-- 🌱 I’m currently learning IT
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me >>  INSTAGRAM: @propatch.it
+Hi, I’m @propatch
+👀 I’m interested in JAVA, Python, database
+I’m currently learning testing, bughunting and AI
+I’m looking to collaborate on ...
+📫 How to reach me >>  INSTAGRAM: @propatch.it
 
 <!---
 propatch/propatch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
